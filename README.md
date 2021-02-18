@@ -1,7 +1,7 @@
 # DudeRPCore
  
 Dude Roleplay Core?
-- It's meant only for learning i don't recommend anyone to put this on his server :D 
+- It's meant only for learning i don't recommend anyone to put this on your server :D 
 - I was too lazy to translate translations
 
 Content
